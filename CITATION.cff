@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "The Srebranig AI Workflow"
+version: 1.0
+doi: 10.5281/zenodo.17924628
+authors:
+  - family-names: Srebranig
+    given-names: Steven
