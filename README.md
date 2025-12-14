@@ -8,9 +8,10 @@ structural control.
 
 The authoritative, citable version of this work is archived on Zenodo:
 
-DOI: 10.5281/zenodo.17924628
+**DOI:** 10.5281/zenodo.17924628
 
-All scholarly citation and reference should point to the Zenodo record.
+All scholarly citation and reference should point to the Zenodo record
+above.
 
 ## Repository Scope
 
