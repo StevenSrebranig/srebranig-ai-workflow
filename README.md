@@ -6,16 +6,24 @@ structural control.
 
 ## Canonical Version
 
-The authoritative, citable version of this work is archived on Zenodo:
+The authoritative, citable archive of this work is maintained on Zenodo
+as a versioned record:
 
-**DOI:** 10.5281/zenodo.17924628
+**Concept DOI:** 10.5281/zenodo.17924628
 
-All scholarly citation and reference should point to the Zenodo record
-above.
+All scholarly citation referring to the Srebranig AI Workflow as a system
+should cite the Concept DOI above. Citations to a specific release may
+use the corresponding version DOI listed on Zenodo.
+
+The Zenodo record includes the core workflow paper and companion
+governance and validation documents added in subsequent versions.
 
 ## Repository Scope
 
-This repository currently mirrors the released document only.
+This GitHub repository mirrors released documents only.
 No templates, code, or implementation materials are provided here.
+
+Normative specifications (HJC Core and Drivers) are maintained in a
+separate HJC Specification repository.
 
 Future expansions, if any, will be explicitly versioned and archived.
